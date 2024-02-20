@@ -1,0 +1,132 @@
+{"Country":"United Kingdom","InvoiceNo":"536572","TotalQuantity":301,"InvoiceValue":442.35,"InvoiceValueExpr":442.35}
+{"Country":"United Kingdom","InvoiceNo":"536577","TotalQuantity":388,"InvoiceValue":497.0,"InvoiceValueExpr":497.0}
+{"Country":"United Kingdom","InvoiceNo":"538715","TotalQuantity":118,"InvoiceValue":325.22,"InvoiceValueExpr":325.22}
+{"Country":"United Kingdom","InvoiceNo":"538783","TotalQuantity":490,"InvoiceValue":976.7,"InvoiceValueExpr":976.7}
+{"Country":"United Kingdom","InvoiceNo":"539084","TotalQuantity":93,"InvoiceValue":190.35,"InvoiceValueExpr":190.35}
+{"Country":"United Kingdom","InvoiceNo":"539737","TotalQuantity":220,"InvoiceValue":1805.29,"InvoiceValueExpr":1805.29}
+{"Country":"United Kingdom","InvoiceNo":"539738","TotalQuantity":222,"InvoiceValue":1736.26,"InvoiceValueExpr":1736.26}
+{"Country":"United Kingdom","InvoiceNo":"539836","TotalQuantity":72,"InvoiceValue":135.34,"InvoiceValueExpr":135.34}
+{"Country":"United Kingdom","InvoiceNo":"539989","TotalQuantity":1,"InvoiceValue":3.75,"InvoiceValueExpr":3.75}
+{"Country":"Germany","InvoiceNo":"540458","TotalQuantity":1783,"InvoiceValue":2169.39,"InvoiceValueExpr":2169.39}
+{"Country":"United Kingdom","InvoiceNo":"540732","TotalQuantity":328,"InvoiceValue":144.12,"InvoiceValueExpr":144.12}
+{"Country":"United Kingdom","InvoiceNo":"542930","TotalQuantity":266,"InvoiceValue":530.1,"InvoiceValueExpr":530.1}
+{"Country":"United Kingdom","InvoiceNo":"543196","TotalQuantity":467,"InvoiceValue":390.71,"InvoiceValueExpr":390.71}
+{"Country":"United Kingdom","InvoiceNo":"543619","TotalQuantity":370,"InvoiceValue":520.57,"InvoiceValueExpr":520.57}
+{"Country":"United Kingdom","InvoiceNo":"544296","TotalQuantity":196,"InvoiceValue":55.44,"InvoiceValueExpr":55.44}
+{"Country":"United Kingdom","InvoiceNo":"544330","TotalQuantity":122,"InvoiceValue":147.2,"InvoiceValueExpr":147.2}
+{"Country":"United Kingdom","InvoiceNo":"C544437","TotalQuantity":-1,"InvoiceValue":-82.5,"InvoiceValueExpr":-82.5}
+{"Country":"United Kingdom","InvoiceNo":"544602","TotalQuantity":198,"InvoiceValue":437.9,"InvoiceValueExpr":437.9}
+{"Country":"United Kingdom","InvoiceNo":"C544840","TotalQuantity":-2,"InvoiceValue":-16.5,"InvoiceValueExpr":-16.5}
+{"Country":"United Kingdom","InvoiceNo":"544910","TotalQuantity":140,"InvoiceValue":584.32,"InvoiceValueExpr":584.32}
+{"Country":"United Kingdom","InvoiceNo":"545316","TotalQuantity":18,"InvoiceValue":116.79,"InvoiceValueExpr":116.79}
+{"Country":"United Kingdom","InvoiceNo":"545567","TotalQuantity":-3,"InvoiceValue":0.0,"InvoiceValueExpr":0.0}
+{"Country":"United Kingdom","InvoiceNo":"545662","TotalQuantity":92,"InvoiceValue":208.2,"InvoiceValueExpr":208.2}
+{"Country":"Netherlands","InvoiceNo":"546027","TotalQuantity":277,"InvoiceValue":444.8,"InvoiceValueExpr":444.8}
+{"Country":"France","InvoiceNo":"546479","TotalQuantity":187,"InvoiceValue":479.4,"InvoiceValueExpr":479.4}
+{"Country":"United Kingdom","InvoiceNo":"547100","TotalQuantity":382,"InvoiceValue":536.78,"InvoiceValueExpr":536.78}
+{"Country":"United Kingdom","InvoiceNo":"547532","TotalQuantity":1,"InvoiceValue":0.0,"InvoiceValueExpr":0.0}
+{"Country":"United Kingdom","InvoiceNo":"547598","TotalQuantity":-25,"InvoiceValue":0.0,"InvoiceValueExpr":0.0}
+{"Country":"United Kingdom","InvoiceNo":"547812","TotalQuantity":1336,"InvoiceValue":5513.32,"InvoiceValueExpr":5513.32}
+{"Country":"United Kingdom","InvoiceNo":"548013","TotalQuantity":48,"InvoiceValue":65.16,"InvoiceValueExpr":65.16}
+{"Country":"United Kingdom","InvoiceNo":"549502","TotalQuantity":1,"InvoiceValue":0.0,"InvoiceValueExpr":0.0}
+{"Country":"United Kingdom","InvoiceNo":"549942","TotalQuantity":36,"InvoiceValue":136.2,"InvoiceValueExpr":136.2}
+{"Country":"Germany","InvoiceNo":"550178","TotalQuantity":228,"InvoiceValue":444.82,"InvoiceValueExpr":444.82}
+{"Country":"France","InvoiceNo":"550661","TotalQuantity":200,"InvoiceValue":541.2,"InvoiceValueExpr":541.2}
+{"Country":"United Kingdom","InvoiceNo":"550785","TotalQuantity":293,"InvoiceValue":267.03,"InvoiceValueExpr":267.03}
+{"Country":"United Kingdom","InvoiceNo":"551325","TotalQuantity":8,"InvoiceValue":21.8,"InvoiceValueExpr":21.8}
+{"Country":"United Kingdom","InvoiceNo":"C551511","TotalQuantity":-21,"InvoiceValue":-80.55,"InvoiceValueExpr":-80.55}
+{"Country":"United Kingdom","InvoiceNo":"552032","TotalQuantity":13,"InvoiceValue":67.95,"InvoiceValueExpr":67.95}
+{"Country":"United Kingdom","InvoiceNo":"553497","TotalQuantity":14,"InvoiceValue":75.8,"InvoiceValueExpr":75.8}
+{"Country":"United Kingdom","InvoiceNo":"554309","TotalQuantity":144,"InvoiceValue":241.2,"InvoiceValueExpr":241.2}
+{"Country":"United Kingdom","InvoiceNo":"554714","TotalQuantity":115,"InvoiceValue":724.74,"InvoiceValueExpr":724.74}
+{"Country":"Germany","InvoiceNo":"556118","TotalQuantity":38,"InvoiceValue":333.0,"InvoiceValueExpr":333.0}
+{"Country":"Denmark","InvoiceNo":"556127","TotalQuantity":793,"InvoiceValue":1621.25,"InvoiceValueExpr":1621.25}
+{"Country":"United Kingdom","InvoiceNo":"556571","TotalQuantity":106,"InvoiceValue":178.94,"InvoiceValueExpr":178.94}
+{"Country":"United Kingdom","InvoiceNo":"556714","TotalQuantity":555,"InvoiceValue":976.25,"InvoiceValueExpr":976.25}
+{"Country":"Malta","InvoiceNo":"C557054","TotalQuantity":-3,"InvoiceValue":-12.75,"InvoiceValueExpr":-12.75}
+{"Country":"United Kingdom","InvoiceNo":"C557654","TotalQuantity":-4,"InvoiceValue":-16.14,"InvoiceValueExpr":-16.14}
+{"Country":"United Kingdom","InvoiceNo":"C558253","TotalQuantity":-4,"InvoiceValue":-13.6,"InvoiceValueExpr":-13.6}
+{"Country":"United Kingdom","InvoiceNo":"558264","TotalQuantity":50,"InvoiceValue":98.3,"InvoiceValueExpr":98.3}
+{"Country":"United Kingdom","InvoiceNo":"558418","TotalQuantity":208,"InvoiceValue":259.98,"InvoiceValueExpr":259.98}
+{"Country":"United Kingdom","InvoiceNo":"558730","TotalQuantity":-1,"InvoiceValue":0.0,"InvoiceValueExpr":0.0}
+{"Country":"United Kingdom","InvoiceNo":"559016","TotalQuantity":150,"InvoiceValue":672.9,"InvoiceValueExpr":672.9}
+{"Country":"United Kingdom","InvoiceNo":"C559608","TotalQuantity":-7,"InvoiceValue":-13.09,"InvoiceValueExpr":-13.09}
+{"Country":"United Kingdom","InvoiceNo":"559888","TotalQuantity":200,"InvoiceValue":311.92,"InvoiceValueExpr":311.92}
+{"Country":"United Kingdom","InvoiceNo":"560050","TotalQuantity":13,"InvoiceValue":32.39,"InvoiceValueExpr":32.39}
+{"Country":"United Kingdom","InvoiceNo":"C560100","TotalQuantity":-1,"InvoiceValue":-7.88,"InvoiceValueExpr":-7.88}
+{"Country":"United Kingdom","InvoiceNo":"560872","TotalQuantity":269,"InvoiceValue":338.03,"InvoiceValueExpr":338.03}
+{"Country":"Germany","InvoiceNo":"560997","TotalQuantity":426,"InvoiceValue":768.02,"InvoiceValueExpr":768.02}
+{"Country":"United Kingdom","InvoiceNo":"C561019","TotalQuantity":-12,"InvoiceValue":-30.6,"InvoiceValueExpr":-30.6}
+{"Country":"United Kingdom","InvoiceNo":"561042","TotalQuantity":256,"InvoiceValue":361.22,"InvoiceValueExpr":361.22}
+{"Country":"United Kingdom","InvoiceNo":"C561319","TotalQuantity":-36,"InvoiceValue":-6.84,"InvoiceValueExpr":-6.84}
+{"Country":"United Kingdom","InvoiceNo":"561389","TotalQuantity":128,"InvoiceValue":411.08,"InvoiceValueExpr":411.08}
+{"Country":"United Kingdom","InvoiceNo":"C562159","TotalQuantity":-12,"InvoiceValue":-17.4,"InvoiceValueExpr":-17.4}
+{"Country":"United Kingdom","InvoiceNo":"562806","TotalQuantity":36,"InvoiceValue":105.1,"InvoiceValueExpr":105.1}
+{"Country":"United Kingdom","InvoiceNo":"539828","TotalQuantity":4,"InvoiceValue":23.8,"InvoiceValueExpr":23.8}
+{"Country":"United Kingdom","InvoiceNo":"551650","TotalQuantity":616,"InvoiceValue":1110.72,"InvoiceValueExpr":1110.72}
+{"Country":"United Kingdom","InvoiceNo":"555410","TotalQuantity":182,"InvoiceValue":347.9,"InvoiceValueExpr":347.9}
+{"Country":"United Kingdom","InvoiceNo":"558520","TotalQuantity":-38,"InvoiceValue":0.0,"InvoiceValueExpr":0.0}
+{"Country":"United Kingdom","InvoiceNo":"561214","TotalQuantity":379,"InvoiceValue":1412.75,"InvoiceValueExpr":1412.75}
+{"Country":"United Kingdom","InvoiceNo":"563204","TotalQuantity":61,"InvoiceValue":164.95,"InvoiceValueExpr":164.95}
+{"Country":"United Kingdom","InvoiceNo":"563213","TotalQuantity":207,"InvoiceValue":273.02,"InvoiceValueExpr":273.02}
+{"Country":"United Kingdom","InvoiceNo":"563617","TotalQuantity":346,"InvoiceValue":523.84,"InvoiceValueExpr":523.84}
+{"Country":"EIRE","InvoiceNo":"563685","TotalQuantity":38,"InvoiceValue":131.85,"InvoiceValueExpr":131.85}
+{"Country":"United Kingdom","InvoiceNo":"563734","TotalQuantity":218,"InvoiceValue":255.52,"InvoiceValueExpr":255.52}
+{"Country":"United Kingdom","InvoiceNo":"563833","TotalQuantity":190,"InvoiceValue":315.5,"InvoiceValueExpr":315.5}
+{"Country":"United Kingdom","InvoiceNo":"564020","TotalQuantity":236,"InvoiceValue":373.66,"InvoiceValueExpr":373.66}
+{"Country":"Germany","InvoiceNo":"564039","TotalQuantity":350,"InvoiceValue":511.96,"InvoiceValueExpr":511.96}
+{"Country":"United Kingdom","InvoiceNo":"C564063","TotalQuantity":-1,"InvoiceValue":-3.25,"InvoiceValueExpr":-3.25}
+{"Country":"United Kingdom","InvoiceNo":"564432","TotalQuantity":266,"InvoiceValue":510.32,"InvoiceValueExpr":510.32}
+{"Country":"United Kingdom","InvoiceNo":"564583","TotalQuantity":600,"InvoiceValue":432.0,"InvoiceValueExpr":432.0}
+{"Country":"United Kingdom","InvoiceNo":"C564946","TotalQuantity":-6,"InvoiceValue":-12.48,"InvoiceValueExpr":-12.48}
+{"Country":"United Kingdom","InvoiceNo":"565128","TotalQuantity":93,"InvoiceValue":319.95,"InvoiceValueExpr":319.95}
+{"Country":"United Kingdom","InvoiceNo":"565329","TotalQuantity":59,"InvoiceValue":113.31,"InvoiceValueExpr":113.31}
+{"Country":"United Kingdom","InvoiceNo":"565369","TotalQuantity":1,"InvoiceValue":0.0,"InvoiceValueExpr":0.0}
+{"Country":"United Kingdom","InvoiceNo":"565840","TotalQuantity":540,"InvoiceValue":1746.79,"InvoiceValueExpr":1746.79}
+{"Country":"Germany","InvoiceNo":"566054","TotalQuantity":125,"InvoiceValue":205.8,"InvoiceValueExpr":205.8}
+{"Country":"United Kingdom","InvoiceNo":"566184","TotalQuantity":1,"InvoiceValue":165.0,"InvoiceValueExpr":165.0}
+{"Country":"United Kingdom","InvoiceNo":"566576","TotalQuantity":977,"InvoiceValue":2180.3,"InvoiceValueExpr":2180.3}
+{"Country":"United Kingdom","InvoiceNo":"566595","TotalQuantity":7824,"InvoiceValue":4314.72,"InvoiceValueExpr":4314.72}
+{"Country":"United Kingdom","InvoiceNo":"567662","TotalQuantity":355,"InvoiceValue":686.03,"InvoiceValueExpr":686.03}
+{"Country":"United Kingdom","InvoiceNo":"567671","TotalQuantity":597,"InvoiceValue":2199.28,"InvoiceValueExpr":2199.28}
+{"Country":"United Kingdom","InvoiceNo":"567967","TotalQuantity":177,"InvoiceValue":153.9,"InvoiceValueExpr":153.9}
+{"Country":"United Kingdom","InvoiceNo":"568171","TotalQuantity":106,"InvoiceValue":130.05,"InvoiceValueExpr":130.05}
+{"Country":"United Kingdom","InvoiceNo":"568665","TotalQuantity":273,"InvoiceValue":282.09,"InvoiceValueExpr":282.09}
+{"Country":"United Kingdom","InvoiceNo":"C569119","TotalQuantity":-3,"InvoiceValue":-3.75,"InvoiceValueExpr":-3.75}
+{"Country":"Germany","InvoiceNo":"C569973","TotalQuantity":-3,"InvoiceValue":-8.85,"InvoiceValueExpr":-8.85}
+{"Country":"United Kingdom","InvoiceNo":"C570468","TotalQuantity":-1,"InvoiceValue":-238.78,"InvoiceValueExpr":-238.78}
+{"Country":"United Kingdom","InvoiceNo":"571309","TotalQuantity":13,"InvoiceValue":5.93,"InvoiceValueExpr":5.93}
+{"Country":"United Kingdom","InvoiceNo":"571434","TotalQuantity":244,"InvoiceValue":110.53,"InvoiceValueExpr":110.53}
+{"Country":"United Kingdom","InvoiceNo":"571552","TotalQuantity":182,"InvoiceValue":281.42,"InvoiceValueExpr":281.42}
+{"Country":"United Kingdom","InvoiceNo":"571664","TotalQuantity":144,"InvoiceValue":302.4,"InvoiceValueExpr":302.4}
+{"Country":"United Kingdom","InvoiceNo":"572023","TotalQuantity":247,"InvoiceValue":556.85,"InvoiceValueExpr":556.85}
+{"Country":"United Kingdom","InvoiceNo":"572192","TotalQuantity":145,"InvoiceValue":312.79,"InvoiceValueExpr":312.79}
+{"Country":"United Kingdom","InvoiceNo":"572234","TotalQuantity":22,"InvoiceValue":65.75,"InvoiceValueExpr":65.75}
+{"Country":"United Kingdom","InvoiceNo":"C572444","TotalQuantity":-2,"InvoiceValue":-251.07,"InvoiceValueExpr":-251.07}
+{"Country":"United Kingdom","InvoiceNo":"572483","TotalQuantity":70,"InvoiceValue":113.27,"InvoiceValueExpr":113.27}
+{"Country":"EIRE","InvoiceNo":"573391","TotalQuantity":185,"InvoiceValue":501.66,"InvoiceValueExpr":501.66}
+{"Country":"United Kingdom","InvoiceNo":"573492","TotalQuantity":52,"InvoiceValue":168.5,"InvoiceValueExpr":168.5}
+{"Country":"United Kingdom","InvoiceNo":"573583","TotalQuantity":44,"InvoiceValue":172.74,"InvoiceValueExpr":172.74}
+{"Country":"United Kingdom","InvoiceNo":"574088","TotalQuantity":128,"InvoiceValue":340.2,"InvoiceValueExpr":340.2}
+{"Country":"United Kingdom","InvoiceNo":"574107","TotalQuantity":104,"InvoiceValue":219.12,"InvoiceValueExpr":219.12}
+{"Country":"United Kingdom","InvoiceNo":"574956","TotalQuantity":317,"InvoiceValue":603.75,"InvoiceValueExpr":603.75}
+{"Country":"United Kingdom","InvoiceNo":"575075","TotalQuantity":213,"InvoiceValue":287.35,"InvoiceValueExpr":287.35}
+{"Country":"United Kingdom","InvoiceNo":"575162","TotalQuantity":1,"InvoiceValue":5.95,"InvoiceValueExpr":5.95}
+{"Country":"United Kingdom","InvoiceNo":"C576194","TotalQuantity":-3,"InvoiceValue":-12.75,"InvoiceValueExpr":-12.75}
+{"Country":"United Kingdom","InvoiceNo":"576874","TotalQuantity":65,"InvoiceValue":171.19,"InvoiceValueExpr":171.19}
+{"Country":"United Kingdom","InvoiceNo":"577044","TotalQuantity":240,"InvoiceValue":460.8,"InvoiceValueExpr":460.8}
+{"Country":"United Kingdom","InvoiceNo":"577337","TotalQuantity":71,"InvoiceValue":171.85,"InvoiceValueExpr":171.85}
+{"Country":"United Kingdom","InvoiceNo":"578171","TotalQuantity":207,"InvoiceValue":392.4,"InvoiceValueExpr":392.4}
+{"Country":"United Kingdom","InvoiceNo":"578511","TotalQuantity":104,"InvoiceValue":247.62,"InvoiceValueExpr":247.62}
+{"Country":"United Kingdom","InvoiceNo":"579167","TotalQuantity":540,"InvoiceValue":1201.49,"InvoiceValueExpr":1201.49}
+{"Country":"United Kingdom","InvoiceNo":"580309","TotalQuantity":172,"InvoiceValue":433.12,"InvoiceValueExpr":433.12}
+{"Country":"United Kingdom","InvoiceNo":"580393","TotalQuantity":95,"InvoiceValue":149.81,"InvoiceValueExpr":149.81}
+{"Country":"United Kingdom","InvoiceNo":"580403","TotalQuantity":143,"InvoiceValue":763.72,"InvoiceValueExpr":763.72}
+{"Country":"United Kingdom","InvoiceNo":"580675","TotalQuantity":598,"InvoiceValue":1186.48,"InvoiceValueExpr":1186.48}
+{"Country":"United Kingdom","InvoiceNo":"580990","TotalQuantity":-48,"InvoiceValue":0.0,"InvoiceValueExpr":0.0}
+{"Country":"United Kingdom","InvoiceNo":"581022","TotalQuantity":63,"InvoiceValue":142.6,"InvoiceValueExpr":142.6}
+{"Country":"United Kingdom","InvoiceNo":"581129","TotalQuantity":450,"InvoiceValue":864.94,"InvoiceValueExpr":864.94}
+{"Country":"United Kingdom","InvoiceNo":"581211","TotalQuantity":14,"InvoiceValue":0.0,"InvoiceValueExpr":0.0}
+{"Country":"United Kingdom","InvoiceNo":"C581393","TotalQuantity":-3,"InvoiceValue":-12.75,"InvoiceValueExpr":-12.75}
+{"Country":"United Kingdom","InvoiceNo":"581579","TotalQuantity":476,"InvoiceValue":903.62,"InvoiceValueExpr":903.62}
+{"Country":"United Kingdom","InvoiceNo":"576096","TotalQuantity":26,"InvoiceValue":86.0,"InvoiceValueExpr":86.0}
